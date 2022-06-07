@@ -1,0 +1,45 @@
+.carousel-inner img {
+    max-height: 700px;
+}
+
+.site-footer {
+    height: 150px;
+}
+
+.iconos a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.iconos a i:hover {
+    color: aqua;
+    transform: scale(1.1);
+    transition: ease-in-out .1s;
+}
+
+
+/**
+.carousel-inner img {
+    max-height: 700px;
+}
+
+.site-footer {
+    height: 150px;
+}
+
+.iconos a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.iconos a i:hover {
+    color: aqua;
+    transform: scale(1.2);
+    transition: ease-in-out .1s;
+}
+
+}**/
